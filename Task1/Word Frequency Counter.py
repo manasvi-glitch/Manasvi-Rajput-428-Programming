@@ -1,3 +1,6 @@
+# -------------------------------
+# Word Frequency Counter in Python
+# -------------------------------
 from collections import Counter
 
 def word_frequency_counter(text):
